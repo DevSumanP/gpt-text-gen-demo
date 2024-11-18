@@ -1,0 +1,2 @@
+Input Prompt: Once upon a time,
+Generated Text: (Your generated text here)
